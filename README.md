@@ -37,8 +37,8 @@ print("Gender : ",result['gender'])
 
 ## OUTPUT:
 
-![image](https://user-images.githubusercontent.com/75236145/173079195-fb8e4eaf-b19b-4ea8-8f52-112aea2beaf7.png)
-![image](https://user-images.githubusercontent.com/75236145/173079281-a2595c48-1707-455d-9c8b-e7bf06b757d0.png)
+![image](https://user-images.githubusercontent.com/75236145/173177059-760936a5-cce2-49a7-a4ff-cd31628d248a.png)
+![image](https://user-images.githubusercontent.com/75236145/173177035-d592f6ee-a680-4117-8be7-89f4aa8fcfbc.png)
 
 2. DEMO VIDEO YOUTUBE LINK:
 
